@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["github>leukosaima/renovate"],
+  "extends": ["github>leukosaima/renovate-shared"],
   "prConcurrentLimit": 5,
   "packageRules": []
 }
